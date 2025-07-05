@@ -1,5 +1,5 @@
 {
-  "remoteURL": "git@github.com:Milo-91/zeek-notes.git",
+  "remoteURL": "https://github.com/Milo-91/zeek-notes",
   "gitLocation": "",
   "syncinterval": 30,
   "isSyncOnLoad": true,
