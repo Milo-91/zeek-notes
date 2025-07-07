@@ -49,7 +49,8 @@
               "title": "0704"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "755909e126e2cecb",
+  "active": "bb5b909c2c0e9868",
   "lastOpenFiles": [
+    "0704.md",
     "Intrusion Detection System (IDS).md",
     "Refinements In Zeek Intrusion Detection System.md",
-    "0704.md",
     "待辦事項.md",
     "images/Process_Flow_of_Refinements_in_Zeek_IDS.png",
     "images",
