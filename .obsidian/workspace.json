@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refinements In Zeek Intrusion Detection System.md",
+                "file": "Zeek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refinements In Zeek Intrusion Detection System"
+              "title": "Zeek"
             }
           },
           {
@@ -194,8 +194,9 @@
   },
   "active": "755909e126e2cecb",
   "lastOpenFiles": [
-    "Intrusion Detection System (IDS).md",
     "Refinements In Zeek Intrusion Detection System.md",
+    "Zeek.md",
+    "Intrusion Detection System (IDS).md",
     "0704.md",
     "待辦事項.md",
     "images/Process_Flow_of_Refinements_in_Zeek_IDS.png",
@@ -204,7 +205,6 @@
     "0703.md",
     "0702.md",
     "paper/Refinements_In_Zeek_Intrusion_Detection_System.pdf",
-    "Zeek.md",
     "第一週進度.md",
     "resources/NSF-Summit-2024_Hands-on-Scripting.pdf",
     "Week1.md",

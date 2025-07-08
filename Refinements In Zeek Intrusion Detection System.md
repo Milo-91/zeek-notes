@@ -10,6 +10,20 @@ read: true
 ## Intrusion Detection System (IDS)
 [[Intrusion Detection System (IDS)]]
 
+## 比較不同IDS
+本篇中比較了三種IDS，分別為Snort、Suricata與Zeek，結論說明Zeek的使用性更高，可以應對更多不同的使用情境。
+### Snort
+- signature-based IDS
+- single-threaded program
+- working with Libpcap as its packet-sniffing library
+
+### Suricata
+- signature-based IDS
+- multi-threaded program
+- monitoring network in real-time or analyzing offline packet capture
+### Zeek
+[[Zeek]]
+
 ## 架構
 增加四項功能來改善Zeek的使用限制
 1. 增加城市與國家名稱
@@ -18,10 +32,9 @@ read: true
 4. 將local與remote的連線放入不同的log檔中!
 流程圖如下：
 
-| ![[Process_Flow_of_Refinements_in_Zeek_IDS.png\|425]] |
+| ![[Process_Flow_of_Refinements_in_Zeek_IDS.png\|575]] |
 | ----------------------------------------------------- |
-|                                                       |
-
+| <center>實作架構流程圖                                       |
 
 ## 想法
 
