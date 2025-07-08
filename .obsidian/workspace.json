@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e632f0b71531a186",
@@ -196,8 +195,8 @@
   "active": "755909e126e2cecb",
   "lastOpenFiles": [
     "Intrusion Detection System (IDS).md",
-    "0704.md",
     "Refinements In Zeek Intrusion Detection System.md",
+    "0704.md",
     "待辦事項.md",
     "images/Process_Flow_of_Refinements_in_Zeek_IDS.png",
     "images",
