@@ -2,11 +2,12 @@
 tags:
   - zeek
   - hybrid_IDS
+related: "[[Intrusion Detection System (IDS)]]"
 ---
 ## 介紹
-
+原名為Bro，屬於Hybrid IDS，能使用scripts來進行客製化監控讓自由度提升
+event trigger
 ## 資源
-
 documentation：
 - link： https://docs.zeek.org/en/master/
 
