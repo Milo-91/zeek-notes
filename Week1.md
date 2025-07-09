@@ -11,7 +11,6 @@ tags:
 
 > [!question] 想了解目前server進行封包檢查的方式
 > TWAREN骨幹上有在路由器上開啟mirror，將mirror port接到一台硬體設備packetX（專門接收NetFlow的機器）。我們再把packetX收到的封包放入ELK中進行分析。
-
 ## meeting內容
 
 ## meeting回饋
