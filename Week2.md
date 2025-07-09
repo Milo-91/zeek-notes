@@ -16,6 +16,9 @@ NetFlow 為 Cisco Systems 所開發的網路協定，用來搜集與匯出 IP He
 國網中心使用NetFlow的技術加以改良，將Router的流量進行mirror，傳送至NetFlow機器中，再根據NetFlow所紀錄的流量資訊來進行診斷，根據流量大小來識別惡意攻擊，將識別出惡意攻擊的使用者阻擋在外。
 NetFlow整個架構的主要優勢在於能將TWAREN流經的封包1:1進行抓取與紀錄，透過程式的過濾縮小需要紀錄的資料，讓伺服器能負荷NetFlow所有抓取的資料。
 ### 2. NICT 合作
-與日本 NICT 公司進行合作，目標想要透過機器學習的方式辨別惡意攻擊的使用者。目前問題在於 NetFlow 所紀錄的資料無法進行 label，因 NetFlow 主要建立在流量多寡來判斷
+與日本 NICT 公司進行合作，目標想要透過機器學習的方式辨別惡意攻擊的使用者。目前問題在於 NetFlow 所紀錄的資料無法進行 label，因 NetFlow 主要建立在流量多寡來判斷惡意行為，但流量來判斷本身不需要機器學習訓練來判斷，流量判斷以外的惡意行為是 NetFlow 無法分析也是 NICT 目前想要訓練的目標。
+在 NICT 那邊有提供 darknet sensor，意旨有分配 IP address 但實際上沒有使用者的機器，類似於 Honeypot 功能，讓攻擊者嘗試對此機器進行攻擊後繼續攻擊模式與 IP address，列為惡意行為使用者。
 ### 3. Zeek 進度報告
+介紹了
+
 ## meeting回饋
