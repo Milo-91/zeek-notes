@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeek.md",
+                "file": "0709.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zeek"
+              "title": "0709"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e632f0b71531a186",
@@ -182,8 +181,9 @@
   "active": "6e44ad6af2823998",
   "lastOpenFiles": [
     "Week2.md",
-    "Intrusion Detection System (IDS).md",
     "Zeek.md",
+    "images/Zeek architecture.png",
+    "Intrusion Detection System (IDS).md",
     "Week1.md",
     "0709.md",
     "0708.md",

@@ -9,8 +9,13 @@ related: "[[Intrusion Detection System (IDS)]]"
 1. 能使用scripts來進行客製化監控提升靈活度，在Zeek預設環境中也有提供許多檢測特定攻擊的scripts檔可以直接使用。
 2. 能針對多台主機進行Clusters的監控模式，意旨能不單依靠一台機器進行監控，而是進行工作分配，不同的機器監控不同的網路封包來平衡負載。
 3. 除了能離線檢查.pcap檔案，也能針對特定的網卡進行即時封包檢測。
-
 ## 架構
+下圖為Zeek運行架構圖，從網路接受到封包後會觸發Event Engine，Policy Script Interpreter針對不同事件寫入不同Logs或傳送Notification。
+
+| ![[Zeek architecture.png]] |
+| -------------------------- |
+| <center> Zeek Architecture |
+
 ## 資源
 documentation：
 - link： https://docs.zeek.org/en/master/
