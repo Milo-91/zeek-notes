@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e632f0b71531a186",
@@ -181,14 +182,14 @@
   "active": "6e44ad6af2823998",
   "lastOpenFiles": [
     "Week2.md",
+    "0709.md",
+    "待辦事項.md",
+    "0708.md",
+    "Week1.md",
     "Zeek.md",
     "images/Zeek architecture.png",
     "Intrusion Detection System (IDS).md",
-    "Week1.md",
-    "0709.md",
-    "0708.md",
     "Refinements In Zeek Intrusion Detection System.md",
-    "待辦事項.md",
     "第一週進度.md",
     "0704.md",
     "0702.md",
