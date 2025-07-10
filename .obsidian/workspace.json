@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week2.md",
+                "file": "待辦事項.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week2"
+              "title": "待辦事項"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e632f0b71531a186",
@@ -184,9 +183,9 @@
   },
   "active": "82e6a77be2d8dc66",
   "lastOpenFiles": [
+    "Week2.md",
     "Zeek.md",
     "待辦事項.md",
-    "Week2.md",
     "0710.md",
     "0702.md",
     "0703.md",
