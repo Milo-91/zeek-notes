@@ -4,7 +4,15 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:c686054b-ff26-4e04-9371-dc357adad6dd",
+      "icon": "lucide-sun",
+      "name": "daily",
+      "mode": "346ab3b77c829e2a",
+      "color": "#e0c200"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],

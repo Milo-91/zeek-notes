@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0709.md",
+                "file": "待辦事項.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0709"
-            }
-          },
-          {
-            "id": "18eb7484d51cb0e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/__template daily report__.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "__template daily report__"
+              "title": "待辦事項"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,26 +170,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "github-sync:Sync with Remote": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "templater-obsidian:Templater": true,
+      "cmdr:daily": false
     }
   },
-  "active": "9c22de15d573dded",
+  "active": "82e6a77be2d8dc66",
   "lastOpenFiles": [
-    "templates/__template daily report__.md",
     "0710.md",
-    "待辦事項.md",
-    "0709.md",
     "0702.md",
     "0703.md",
     "0704.md",
     "0708.md",
+    "0709.md",
+    "templates/__template daily report__.md",
+    "Refinements In Zeek Intrusion Detection System.md",
+    "待辦事項.md",
+    "Untitled.canvas",
+    "2025-07-10.md",
     "templates",
     "Week2.md",
     "Week1.md",
@@ -211,7 +201,6 @@
     "paper/100GIntrusionDetection.pdf",
     "images/Zeek architecture.png",
     "Intrusion Detection System (IDS).md",
-    "Refinements In Zeek Intrusion Detection System.md",
     "第一週進度.md",
     "images/Process_Flow_of_Refinements_in_Zeek_IDS.png",
     "images",
