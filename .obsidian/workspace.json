@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "待辦事項.md",
+                "file": "0710.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "待辦事項"
+              "title": "0710"
             }
           }
         ],
@@ -183,9 +183,9 @@
   },
   "active": "82e6a77be2d8dc66",
   "lastOpenFiles": [
+    "待辦事項.md",
     "Week2.md",
     "Zeek.md",
-    "待辦事項.md",
     "0710.md",
     "0702.md",
     "0703.md",
