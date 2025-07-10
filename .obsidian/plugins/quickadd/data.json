@@ -1,5 +1,34 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "c686054b-ff26-4e04-9371-dc357adad6dd",
+      "name": "daily report",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/__template daily report__.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:MMDD}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
