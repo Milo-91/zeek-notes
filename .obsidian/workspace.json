@@ -176,11 +176,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "82e6a77be2d8dc66",
+  "active": "9c22de15d573dded",
   "lastOpenFiles": [
+    "templates",
     "0708.md",
     "0709.md",
     "待辦事項.md",
