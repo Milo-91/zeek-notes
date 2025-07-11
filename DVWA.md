@@ -27,6 +27,8 @@ sudo systemctl stop apache2
 DVWA：
 - [Github](https://github.com/digininja/DVWA)
 
+安裝方式：
 - [IT邦幫忙blog-DVWA安裝](https://ithelp.ithome.com.tw/articles/10334204)
 
+SQL Injection：
 - [SQLI using DVWA and SQLMAP video](https://www.youtube.com/watch?v=bEOWM6H99bk)
