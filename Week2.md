@@ -4,7 +4,12 @@ tags:
 ---
 ## 週進度
 1. 於 VM 中成功執行 Zeek，並使用 zeekctl 來監測網卡資訊。
-
+2. 架設 DVWA 並使用 sqlmap 進行 sql injection attack 並成功使用 zeek 於 notice.log 紀錄 sql injection attack 的警訊。
+### 下週會議
+會議時間：07/15 14:00~16:00
+會議地點：404會議室
+1. 介紹 zeek scripts 內容
+2. zeek paper
 ## 問題
 >[! question] 想了解正常你們在研究一項新事物時的研究方法，包括如何進行文獻搜索與模擬實驗。
 
