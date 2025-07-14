@@ -35,8 +35,7 @@
               "title": "Week3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "95fa78c73430746c",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week3.md",
+                "file": "0714.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week3"
+              "title": "Backlinks for 0714"
             }
           },
           {
@@ -201,10 +200,10 @@
       "cmdr:daily": false
     }
   },
-  "active": "2e54608547decf57",
+  "active": "3f1c6b63498d7bec",
   "lastOpenFiles": [
-    "Zeek.md",
     "Week3.md",
+    "Zeek.md",
     "Week2.md",
     "0714.md",
     "Malware Traffic Dataset.md",
