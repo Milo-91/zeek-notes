@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week3.md",
+                "file": "0712.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week3"
+              "title": "0712"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Week3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +181,15 @@
       "cmdr:daily": false
     }
   },
-  "active": "3f1c6b63498d7bec",
+  "active": "2e54608547decf57",
   "lastOpenFiles": [
-    "0714.md",
-    "Malware Traffic Dataset.md",
-    "Week3.md",
-    "Zeek.md",
-    "Week2.md",
     "0712.md",
     "0711.md",
+    "Week3.md",
+    "0714.md",
+    "Malware Traffic Dataset.md",
+    "Zeek.md",
+    "Week2.md",
     "Flask.md",
     "paper/Introducing UWF-ZeekData24 An Enterprise MITRE ATT&CK Labeled Network Attack Traffic Dataset for Machine Learning.pdf",
     "templates/__template daily report__.md",
