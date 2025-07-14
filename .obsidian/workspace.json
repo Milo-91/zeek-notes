@@ -104,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeek.md",
+                "file": "0712.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zeek"
+              "title": "0712"
             }
           }
         ]
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware Traffic Dataset.md",
+                "file": "0712.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Malware Traffic Dataset"
+              "title": "Backlinks for 0712"
             }
           },
           {
@@ -257,12 +257,12 @@
       "cmdr:daily": false
     }
   },
-  "active": "3ae6666ab705766d",
+  "active": "b1b0cac4a36835c7",
   "lastOpenFiles": [
+    "Zeek.md",
+    "Malware Traffic Dataset.md",
     "0714.md",
     "paper/Introducing UWF-ZeekData24 An Enterprise MITRE ATT&CK Labeled Network Attack Traffic Dataset for Machine Learning.pdf",
-    "Malware Traffic Dataset.md",
-    "Zeek.md",
     "templates/__template daily report__.md",
     "0708.md",
     "0704.md",
