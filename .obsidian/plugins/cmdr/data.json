@@ -11,6 +11,13 @@
       "name": "daily",
       "mode": "346ab3b77c829e2a",
       "color": "#e0c200"
+    },
+    {
+      "id": "quickadd:choice:5afa9d7b-e36c-4563-bcd9-6b54f98c0590",
+      "icon": "lucide-calendar-days",
+      "name": "QuickAdd: weekly report",
+      "mode": "any",
+      "color": "#d92020"
     }
   ],
   "rightRibbon": [],

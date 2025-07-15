@@ -34,15 +34,17 @@
       "id": "5afa9d7b-e36c-4563-bcd9-6b54f98c0590",
       "name": "weekly report",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "templates/__template weekly report__.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "weekly_report"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -53,9 +55,9 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
+      "fileExistsMode": "Nothing",
       "setFileExistsBehavior": false
     }
   ],
