@@ -15,7 +15,8 @@ related: "[[Intrusion Detection System (IDS)]]"
 | ![[Zeek architecture.png]] |
 | -------------------------- |
 | <center> Zeek Architecture |
-
+## QA
+>[!question] 為什麼會說 Zeek 是 
 ## 資源
 ### Zeek
 - [documentation](https://docs.zeek.org/en/master/)
