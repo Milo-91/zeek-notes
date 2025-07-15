@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Week3"
             }
+          },
+          {
+            "id": "3baa484877a3e905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0715.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0715"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,16 +237,16 @@
       "cmdr:daily": false
     }
   },
-  "active": "625aee088b26ceb7",
+  "active": "3baa484877a3e905",
   "lastOpenFiles": [
+    "0711.md",
+    "0712.md",
+    "0715.md",
+    "Week3.md",
     "Intrusion Detection System (IDS).md",
     "Refinements In Zeek Intrusion Detection System.md",
     "Zeek.md",
-    "0715.md",
     "0714.md",
-    "Week3.md",
-    "0712.md",
-    "0711.md",
     "Malware Traffic Dataset.md",
     "Week2.md",
     "Flask.md",
