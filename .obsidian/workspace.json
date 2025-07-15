@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "weekly_report/Week3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e632f0b71531a186",
@@ -195,7 +196,7 @@
       "cmdr:daily": false
     }
   },
-  "active": "9c22de15d573dded",
+  "active": "2e54608547decf57",
   "lastOpenFiles": [
     "paper/(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
     "paper/(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
