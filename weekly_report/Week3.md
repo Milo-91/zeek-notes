@@ -4,6 +4,12 @@ tags:
   - zeek
   - zeek_scripts
 ---
+## 下次會議
+### 會議時間：07/29 or 07/30
+### 會議地點：
+### 會議目標：
+1. zeek paper
+2. zeek + mcp
 ## 週進度
 ### Zeek Scripts
 希望可以使用腳本來找出特定攻擊，但目前有查到的腳本很少針對所有類別的攻擊進行偵測，大多都是針對某一種行為進行偵測。
@@ -29,7 +35,15 @@ Zeek 中針對攻擊內建的腳本不多，目前有找到針對異常行為進
 ## 問題
 
 >[! question] 昨天聽完組長的理想之後覺得製作上或許會跟 NICT 合作案路線不同，你們會希望朝哪個方向來做。
+>希望我可以看 zeek 本身有什麼有趣的東西，用那個東西來發想，製作出一個小專案，讓他們之後可以使用。所以不用侷限於他們的計畫，可以做自己覺得有趣的東西，讓他們的計畫來湊這個小專案的內容。
 
 ## meeting 內容
-
+### 1. Zeek Scripts
+主要有跟他們說了，Zeek 能做的並非我們原本預期的那麼強大，他們也覺得我找的那些套件有的偵測，並非他們想要看到的東西。他們比較好奇，骨幹網路需要知道的攻擊，例如能否偵測 DDoS 攻擊、或是 C&C 的通訊封包，這些只有骨幹才能偵測並且做出防禦的攻擊是他們想要探討的。
+### 2. Paper
+有介紹 [[(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf|Grace1]] 給他們，也有跟他們說我覺得沒有參考價值。他們沒有 comments。
 ## meeting 回饋
+首先應該會給我某個 honeypot 的 VM，讓我在上面部署 Zeek，看看在上面能不能看到更多的東西。
+希望我去看 Zeek+MCP 看現在有沒有人拿來做什麼事情，這也是組長的藍圖中有的東西。
+將這篇 [[(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf|Grace2]] 看完。
+<mark class="hltr-r">主要目標是希望我可以使用 Zeek 做出一套有趣的研究，他們再運用這個東西來了解 Zeek 可以幹嘛。</mark>

@@ -6,6 +6,7 @@ tags:
 1. 成功使用官方推出的docker image進行環境建置，並使用此image進行基本的zeek使用。
 2. 觀看zeek documentation與官方提供的Zeek Training Day影片。
 3. 重新設計筆記架構。
+## 下次會議
 ## 問題
 > [!question] 目前的server是怎麼運作的，如果要安裝zeek的話要安裝在哪裡比較好？ 
 
