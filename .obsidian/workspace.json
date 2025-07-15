@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refinements In Zeek Intrusion Detection System.md",
+                "file": "Week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refinements In Zeek Intrusion Detection System"
+              "title": "Week3"
             }
           }
         ],
@@ -226,8 +226,8 @@
   "active": "625aee088b26ceb7",
   "lastOpenFiles": [
     "Intrusion Detection System (IDS).md",
-    "Zeek.md",
     "Refinements In Zeek Intrusion Detection System.md",
+    "Zeek.md",
     "0715.md",
     "0714.md",
     "Week3.md",

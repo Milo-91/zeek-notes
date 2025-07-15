@@ -19,5 +19,9 @@ Zeek 中針對攻擊內建的腳本不多，目前有找到針對異常行為進
 在 Github 或是 Zeek 論壇上也沒有找到較全面針對攻擊進行辨識的腳本，目前有看到我比較看得懂的有
 1. [zeek intelligence feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) : 搜集目前公開的 IP 或 URL 黑名單加入 Zeek 中。
 2. [BZAR](https://github.com/mitre-attack/bzar) : 根據 MITRE ATT&CK 進行攻擊策略分類。
+### Zeek 輔助工具
+不屬於 Zeek Scripts，但利用 Zeek 能產生出豐富且分類完善的 log 檔優勢，使用 Zeek 所產生的 logs 來進行分析，找出 Zeek 本身所沒辦法找出的問題。
+1. [RITA](https://www.activecountermeasures.com/free-tools/rita/)
+2. [AC-Hunter]()
 ### 想法
 經過這幾天的查找，感覺或許大家在使用上不是只有單純使用 Zeek 進行所有的偵查，也許是使用 Zeek 的 logs 來使用其他工具進行分析。
