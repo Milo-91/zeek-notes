@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,15 +196,15 @@
       "cmdr:daily": false
     }
   },
-  "active": "2e54608547decf57",
+  "active": "c6cf84e8f0163494",
   "lastOpenFiles": [
+    "weekly_report/Week3.md",
     "paper/(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
     "paper/(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
     "paper/(第二篇論文)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
     "Refinements In Zeek Intrusion Detection System.md",
     "SQLmap.md",
     "Zeek.md",
-    "weekly_report/Week3.md",
     "weekly_report/Week2.md",
     "Flask.md",
     "DVWA.md",
@@ -221,7 +221,6 @@
     "paper/(Grace要我看的論文)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
     "paper/(印度人的指南)100GIntrusionDetection.pdf",
     "paper/(用Zeek做機器學習)Machine learning assisted snort and zeek in detecting DDoS attacks in software-defined networking.pdf",
-    "paper/Machine learning assisted snort and zeek in detecting DDoS attacks in software-defined networking.pdf",
     "daily_report/0711.md",
     "Intrusion Detection System (IDS).md",
     "Malware Traffic Dataset.md",
