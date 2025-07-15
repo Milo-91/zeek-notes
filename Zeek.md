@@ -5,7 +5,7 @@ tags:
 related: "[[Intrusion Detection System (IDS)]]"
 ---
 ## 介紹
-原名為 Bro，為一款開源的被動網路流量監控程式，能監控 10 Gigabit Ethenet (GE) 網路，屬於 Hybrid IDS，主要使用事件觸發 (event trigger) 的方式來進行偵測，並使用 log 將不同類型的封包進行分類，像是conn.log紀錄所有的連線、http.log紀錄所有http的封包...等等。其優勢有三：
+原名為 Bro，屬於 Hybrid [[Intrusion Detection System (IDS)|IDS]]，為一款開源的被動網路流量監控程式，也常被大家作為網路安全監控程式 (Network Security Monitor, NSM) 使用。最大能監控 10 Gigabit Ethenet (GE) 網路，主要使用事件觸發 (event trigger) 的方式來進行偵測，並使用 log 將不同類型的封包進行分類，像是conn.log紀錄所有的連線、http.log紀錄所有http的封包...等等。其優勢有三：
 1. 能使用scripts來進行客製化監控提升靈活度，在Zeek預設環境中也有提供許多檢測特定攻擊的scripts檔可以直接使用。
 2. 能針對多台主機進行Clusters的監控模式，意旨能不單依靠一台機器進行監控，而是進行工作分配，不同的機器監控不同的網路封包來平衡負載。
 3. 除了能離線檢查.pcap檔案，也能針對特定的網卡進行即時封包檢測。
