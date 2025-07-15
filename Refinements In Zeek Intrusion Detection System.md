@@ -13,9 +13,9 @@ read: true
 ## 比較不同IDS
 本篇中比較了三種IDS，分別為Snort、Suricata與Zeek，結論說明Zeek的使用性更高，可以應對更多不同的使用情境。
 ### Snort
-為 signature-based IDS，Snort 主要會被拿來檢查協定與封包狀態。single-threaded program 因此在封包處理的速度與數量上可能沒辦法這麼大。通常結合 Libpcap 函式庫來偵測封包。
+為 signature-based IDS，可以作為 IDS 也可以是 IPS，Snort 主要會被拿來檢查協定與封包狀態。single-threaded program 因此在封包處理的速度與數量上可能沒辦法這麼大。通常結合 Libpcap 函式庫來偵測封包。
 ### Suricata
-為 OISF 開發的開源 IDS，與 Snort 同為 signature-based IDS，可以即時監控也可以分析 pcap 檔案，multi-threaded program 且除了能檢查封包也能檢查 TLS/SSL 憑證、HTTP requests、DNS queries 等資訊。相較於 Snort single-threaded 技術，multi-threaded 能處理的封包數量大很多。
+為 OISF 開發的開源 IDS (Passive mode) / IPS (Active mode)，與 Snort 同為 signature-based IDS，可以即時監控也可以分析 pcap 檔案，multi-threaded program 且除了能檢查封包也能檢查 TLS/SSL 憑證、HTTP requests、DNS queries 等資訊。相較於 Snort single-threaded 技術，multi-threaded 能處理的封包數量大很多。
 ### Zeek
 [[Zeek]]
 ## 架構

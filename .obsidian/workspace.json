@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intrusion Detection System (IDS).md",
+                "file": "Refinements In Zeek Intrusion Detection System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intrusion Detection System (IDS)"
+              "title": "Refinements In Zeek Intrusion Detection System"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,7 +223,7 @@
       "cmdr:daily": false
     }
   },
-  "active": "0812f5b9e2b6e343",
+  "active": "625aee088b26ceb7",
   "lastOpenFiles": [
     "Intrusion Detection System (IDS).md",
     "Zeek.md",
