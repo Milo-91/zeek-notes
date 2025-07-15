@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0812f5b9e2b6e343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flask"
+            }
+          },
+          {
             "id": "c6cf84e8f0163494",
             "type": "leaf",
             "state": {
@@ -22,63 +36,21 @@
             }
           },
           {
-            "id": "0812f5b9e2b6e343",
+            "id": "2e54608547decf57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zeek"
-            }
-          },
-          {
-            "id": "625aee088b26ceb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week3.md",
+                "file": "weekly_report/Week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Week3"
             }
-          },
-          {
-            "id": "3baa484877a3e905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0714.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0714"
-            }
-          },
-          {
-            "id": "2e54608547decf57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0715.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0715"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,43 +195,44 @@
       "cmdr:daily": false
     }
   },
-  "active": "2e54608547decf57",
+  "active": "9c22de15d573dded",
   "lastOpenFiles": [
-    "0714.md",
-    "0712.md",
+    "paper/(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
+    "paper/(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
+    "paper/(第二篇論文)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
+    "Refinements In Zeek Intrusion Detection System.md",
+    "SQLmap.md",
     "Zeek.md",
-    "0715.md",
+    "weekly_report/Week3.md",
+    "weekly_report/Week2.md",
+    "Flask.md",
+    "DVWA.md",
+    "待辦事項.md",
+    "weekly_report/Week1.md",
+    "weekly_report",
+    "daily_report/0714.md",
+    "daily_report/0715.md",
+    "daily_report/0702.md",
+    "daily_report",
+    "daily_report/0712.md",
     "paper/(malware的使用說明pdf)Introducing UWF-ZeekData24 An Enterprise MITRE ATT&CK Labeled Network Attack Traffic Dataset for Machine Learning.pdf",
     "paper/(NICT機器學習成果)Does_Ordinality_in_Encoding_Matter_for_XAI__A_Case_Study_on_Explainable_IDS.pdf",
     "paper/(Grace要我看的論文)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
     "paper/(印度人的指南)100GIntrusionDetection.pdf",
     "paper/(用Zeek做機器學習)Machine learning assisted snort and zeek in detecting DDoS attacks in software-defined networking.pdf",
     "paper/Machine learning assisted snort and zeek in detecting DDoS attacks in software-defined networking.pdf",
-    "paper/machine_learning.pdf",
-    "Refinements In Zeek Intrusion Detection System.md",
-    "0711.md",
-    "Week3.md",
+    "daily_report/0711.md",
     "Intrusion Detection System (IDS).md",
     "Malware Traffic Dataset.md",
-    "Week2.md",
-    "Flask.md",
-    "paper/Introducing UWF-ZeekData24 An Enterprise MITRE ATT&CK Labeled Network Attack Traffic Dataset for Machine Learning.pdf",
     "templates/__template daily report__.md",
-    "0708.md",
-    "0704.md",
-    "0702.md",
-    "0703.md",
-    "0709.md",
-    "SQLmap.md",
-    "0710.md",
-    "paper/Does_Ordinality_in_Encoding_Matter_for_XAI__A_Case_Study_on_Explainable_IDS.pdf",
+    "daily_report/0708.md",
+    "daily_report/0704.md",
+    "daily_report/0703.md",
+    "daily_report/0709.md",
+    "daily_report/0710.md",
     "MITRE ATT&CK.md",
-    "待辦事項.md",
-    "DVWA.md",
-    "resources/NSF-Summit-2024_Hands-on-Scripting.pdf",
     "Untitled.canvas",
     "2025-07-10.md",
-    "Week1.md",
     "images/Zeek architecture.png",
     "第一週進度.md",
     "images/Process_Flow_of_Refinements_in_Zeek_IDS.png"
