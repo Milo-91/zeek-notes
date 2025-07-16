@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_report/0708.md",
+                "file": "daily_report/0716.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0708"
+              "title": "0716"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "caf8c37a80d552e1",
   "lastOpenFiles": [
+    "daily_report/0708.md",
     "daily_report/0704.md",
     "daily_report/0703.md",
     "daily_report/0716.md",
@@ -203,7 +204,6 @@
     "daily_report/0711.md",
     "notes/Intrusion Detection System (IDS).md",
     "notes/Malware Traffic Dataset.md",
-    "daily_report/0708.md",
     "Untitled.canvas",
     "images/Zeek architecture.png",
     "images/Process_Flow_of_Refinements_in_Zeek_IDS.png"
