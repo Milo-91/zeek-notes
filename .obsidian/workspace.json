@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly_report/Week3.md",
+                "file": "daily_report/0716.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week3"
+              "title": "0716"
             }
           }
         ],
@@ -184,13 +184,13 @@
   },
   "active": "d24efc1d51313ae6",
   "lastOpenFiles": [
+    "weekly_report/Week3.md",
     "daily_report/0716.md",
     "daily_report/0709.md",
     "daily_report/0708.md",
     "notes/Zeek.md",
     "daily_report/0704.md",
     "daily_report/0703.md",
-    "weekly_report/Week3.md",
     "notes/DVWA.md",
     "待辦事項.md",
     "notes",
