@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_report/0722.md",
+                "file": "daily_report/0715.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0722"
+              "title": "0715"
             }
           },
           {
@@ -198,16 +198,19 @@
   },
   "active": "daffc940720d69d5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "daily_report/0722.md",
     "daily_report/0714.md",
-    "daily_report/0715.md",
+    "daily_report/0712.md",
+    "daily_report/0711.md",
+    "daily_report/0710.md",
+    "daily_report/0709.md",
     "daily_report/0716.md",
+    "daily_report/0715.md",
+    "daily_report/0722.md",
+    "Untitled.md",
     "Beaconing.md",
     "待辦事項.md",
     "weekly_report/Week3.md",
     "weekly_report/Week4.md",
-    "daily_report/0709.md",
     "daily_report/0708.md",
     "notes/Zeek.md",
     "daily_report/0704.md",
@@ -225,11 +228,8 @@
     "paper/(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
     "paper/(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
     "paper/(第二篇論文)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
-    "notes/SQLmap.md",
     "weekly_report",
-    "daily_report/0702.md",
     "daily_report",
-    "daily_report/0712.md",
     "paper/(malware的使用說明pdf)Introducing UWF-ZeekData24 An Enterprise MITRE ATT&CK Labeled Network Attack Traffic Dataset for Machine Learning.pdf",
     "paper/(NICT機器學習成果)Does_Ordinality_in_Encoding_Matter_for_XAI__A_Case_Study_on_Explainable_IDS.pdf",
     "paper/(Grace要我看的論文)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
