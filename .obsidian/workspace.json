@@ -49,8 +49,7 @@
               "title": "待辦事項"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,19 +195,19 @@
       "cmdr:QuickAdd: weekly report": false
     }
   },
-  "active": "daffc940720d69d5",
+  "active": "e6b7c77695fb233b",
   "lastOpenFiles": [
+    "待辦事項.md",
+    "daily_report/0722.md",
+    "daily_report/0715.md",
     "daily_report/0714.md",
     "daily_report/0712.md",
     "daily_report/0711.md",
     "daily_report/0710.md",
     "daily_report/0709.md",
     "daily_report/0716.md",
-    "daily_report/0715.md",
-    "daily_report/0722.md",
     "Untitled.md",
     "Beaconing.md",
-    "待辦事項.md",
     "weekly_report/Week3.md",
     "weekly_report/Week4.md",
     "daily_report/0708.md",
