@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_report/0716.md",
+                "file": "weekly_report/Week4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0716"
+              "title": "Week4"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_report/0715.md",
+                "file": "daily_report/0722.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0715"
+              "title": "0722"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "待辦事項"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,21 +196,22 @@
       "cmdr:QuickAdd: weekly report": false
     }
   },
-  "active": "e6b7c77695fb233b",
+  "active": "daffc940720d69d5",
   "lastOpenFiles": [
-    "daily_report/0722.md",
-    "待辦事項.md",
     "daily_report/0715.md",
+    "weekly_report/Week4.md",
+    "daily_report/0722.md",
+    "daily_report/0716.md",
+    "weekly_report/Week2.md",
+    "weekly_report/Week3.md",
+    "待辦事項.md",
     "daily_report/0714.md",
     "daily_report/0712.md",
     "daily_report/0711.md",
     "daily_report/0710.md",
     "daily_report/0709.md",
-    "daily_report/0716.md",
     "Untitled.md",
     "Beaconing.md",
-    "weekly_report/Week3.md",
-    "weekly_report/Week4.md",
     "daily_report/0708.md",
     "notes/Zeek.md",
     "daily_report/0704.md",
@@ -217,7 +219,6 @@
     "notes/DVWA.md",
     "notes",
     "weekly_report/Week1.md",
-    "weekly_report/Week2.md",
     "Week4.md",
     "templates/__template weekly report__.md",
     "Week{{ moment().diff(moment(\"2025-07-01\").startOf('isoWeek'), 'weeks') + 1 }}.md",

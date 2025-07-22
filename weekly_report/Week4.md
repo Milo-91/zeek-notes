@@ -7,7 +7,13 @@ tags:
 ### 會議地點：
 ### 會議目標：
 ## 週進度
+### VM 資料備份
+之前下載 RITA 導致 Zeek 內部出現問題而無法開啟([[0716]])，因此利用 timeshift 進行系統備份。使用下面指令來進行備份。
+```bash
+sudo timeshift --create --comments "<comments>" --tags D # Daily
+```
 
+參考資料：[link](https://dev.to/rahedmir/how-to-use-timeshift-from-command-line-in-linux-1l9b)
 ## 問題
 >[!question] 以目前的技術上來看，Zeek 是有辦法裝在骨幹網路的各處如同 NetFlow 進行即時的網路分析嗎？
 >以目前看來比較沒辦法，Zeek 的封包比起 NetFlow 需要的效能更高，以目前的研究來看會比較希望做前瞻性的測試，證明 Zeek 可以做到這些事情，再包裝之後可以做到什麼樣的事情。
