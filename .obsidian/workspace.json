@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beaconing.md",
+                "file": "daily_report/0722.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beaconing"
+              "title": "0722"
             }
           },
           {
@@ -198,12 +198,12 @@
   },
   "active": "daffc940720d69d5",
   "lastOpenFiles": [
+    "Beaconing.md",
     "待辦事項.md",
     "daily_report/0722.md",
     "weekly_report/Week3.md",
     "weekly_report/Week4.md",
     "daily_report/0716.md",
-    "Beaconing.md",
     "daily_report/0709.md",
     "daily_report/0708.md",
     "notes/Zeek.md",
