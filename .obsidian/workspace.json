@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_report/0722.md",
+                "file": "daily_report/0723.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0722"
+              "title": "0723"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "20ae778125aa444c",
   "lastOpenFiles": [
-    "daily_report/0723.md",
     "daily_report/0722.md",
+    "daily_report/0723.md",
     "daily_report/0715.md",
     "weekly_report/Week4.md",
     "daily_report/0716.md",
