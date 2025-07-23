@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "20ae778125aa444c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_report/0723.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0723"
+            }
+          },
+          {
             "id": "674784a6f69cb3bc",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,11 +210,12 @@
       "cmdr:QuickAdd: weekly report": false
     }
   },
-  "active": "daffc940720d69d5",
+  "active": "20ae778125aa444c",
   "lastOpenFiles": [
+    "daily_report/0722.md",
+    "daily_report/0723.md",
     "daily_report/0715.md",
     "weekly_report/Week4.md",
-    "daily_report/0722.md",
     "daily_report/0716.md",
     "weekly_report/Week2.md",
     "weekly_report/Week3.md",
@@ -224,7 +239,6 @@
     "Week{{ moment().diff(moment(\"2025-07-01\").startOf('isoWeek'), 'weeks') + 1 }}.md",
     "templates/__template daily report__.md",
     "notes/Refinements In Zeek Intrusion Detection System.md",
-    "notes/Flask.md",
     "paper/(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
     "paper/(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
     "paper/(第二篇論文)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
