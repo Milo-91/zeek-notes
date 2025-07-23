@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_report/0722.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0722"
-            }
-          },
-          {
-            "id": "20ae778125aa444c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "daily_report/0723.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,16 +196,17 @@
       "cmdr:QuickAdd: weekly report": false
     }
   },
-  "active": "20ae778125aa444c",
+  "active": "daffc940720d69d5",
   "lastOpenFiles": [
     "daily_report/0722.md",
+    "待辦事項.md",
+    "paper/(印度人的指南)100GIntrusionDetection.pdf",
     "daily_report/0723.md",
     "daily_report/0715.md",
     "weekly_report/Week4.md",
     "daily_report/0716.md",
     "weekly_report/Week2.md",
     "weekly_report/Week3.md",
-    "待辦事項.md",
     "daily_report/0714.md",
     "daily_report/0712.md",
     "daily_report/0711.md",
@@ -238,7 +225,6 @@
     "templates/__template weekly report__.md",
     "Week{{ moment().diff(moment(\"2025-07-01\").startOf('isoWeek'), 'weeks') + 1 }}.md",
     "templates/__template daily report__.md",
-    "notes/Refinements In Zeek Intrusion Detection System.md",
     "paper/(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
     "paper/(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
     "paper/(第二篇論文)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
@@ -247,7 +233,6 @@
     "paper/(malware的使用說明pdf)Introducing UWF-ZeekData24 An Enterprise MITRE ATT&CK Labeled Network Attack Traffic Dataset for Machine Learning.pdf",
     "paper/(NICT機器學習成果)Does_Ordinality_in_Encoding_Matter_for_XAI__A_Case_Study_on_Explainable_IDS.pdf",
     "paper/(Grace要我看的論文)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
-    "paper/(印度人的指南)100GIntrusionDetection.pdf",
     "Untitled.canvas",
     "images/Zeek architecture.png",
     "images/Process_Flow_of_Refinements_in_Zeek_IDS.png"
