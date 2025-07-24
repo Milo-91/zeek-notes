@@ -3,9 +3,11 @@ tags:
   - 週進度
 ---
 ## 下次會議
-### 會議時間：
-### 會議地點：
+### 會議時間：7/29 14:00
+### 會議地點：[視訊會議]([https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmMxYTFkNGMtZGZmYy00YWNmLWJkYjUtZDZkYzYxMWMwYzk2%40thread.v2/0?context=%7b%22Tid%22%3a%225971958d-ee58-4751-a077-feff48b33d00%22%2c%22Oid%22%3a%22ba8ee0ad-d434-4ff9-85b8-7f5d7e988f66%22%7d](https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_YmMxYTFkNGMtZGZmYy00YWNmLWJkYjUtZDZkYzYxMWMwYzk2%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%25225971958d-ee58-4751-a077-feff48b33d00%2522%252c%2522Oid%2522%253a%2522ba8ee0ad-d434-4ff9-85b8-7f5d7e988f66%2522%257d&sa=D&source=calendar&usd=2&usg=AOvVaw0Yq03plvdf6kKMDSemA0ie))
 ### 會議目標：
+1. 介紹 Zeek + MCP
+2. 介紹 100G 報告內容
 ## 週進度
 ### VM 資料備份
 之前下載 RITA 導致 Zeek 內部出現問題而無法開啟([[0716]])，因此利用 timeshift 進行系統備份。使用下面指令來進行備份。
