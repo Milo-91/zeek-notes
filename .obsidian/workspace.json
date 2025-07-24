@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_report/0724.md",
+                "file": "daily_report/0708.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0724"
+              "title": "0708"
             }
           },
           {
@@ -212,8 +212,9 @@
   },
   "active": "7de28d74476bc0aa",
   "lastOpenFiles": [
-    "Python venv.md",
+    "notes/Zeek.md",
     "daily_report/0724.md",
+    "Python venv.md",
     "images/MCP_architecture.png",
     "待辦事項.md",
     "daily_report/0723.md",
@@ -231,7 +232,6 @@
     "daily_report/0709.md",
     "notes/Beaconing.md",
     "daily_report/0708.md",
-    "notes/Zeek.md",
     "daily_report/0704.md",
     "daily_report/0703.md",
     "notes/DVWA.md",
