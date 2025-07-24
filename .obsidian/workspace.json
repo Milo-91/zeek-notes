@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +210,9 @@
       "cmdr:QuickAdd: weekly report": false
     }
   },
-  "active": "7de28d74476bc0aa",
+  "active": "daffc940720d69d5",
   "lastOpenFiles": [
+    "daily_report/0709.md",
     "daily_report/0708.md",
     "notes/Zeek.md",
     "daily_report/0724.md",
@@ -230,7 +231,6 @@
     "daily_report/0712.md",
     "daily_report/0711.md",
     "daily_report/0710.md",
-    "daily_report/0709.md",
     "notes/Beaconing.md",
     "daily_report/0704.md",
     "daily_report/0703.md",
