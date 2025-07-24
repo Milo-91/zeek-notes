@@ -196,8 +196,9 @@
       "cmdr:QuickAdd: weekly report": false
     }
   },
-  "active": "daffc940720d69d5",
+  "active": "9c22de15d573dded",
   "lastOpenFiles": [
+    "images/MCP_architecture.png",
     "待辦事項.md",
     "daily_report/0724.md",
     "daily_report/0723.md",
@@ -214,7 +215,7 @@
     "daily_report/0710.md",
     "daily_report/0709.md",
     "Untitled.md",
-    "Beaconing.md",
+    "notes/Beaconing.md",
     "daily_report/0708.md",
     "notes/Zeek.md",
     "daily_report/0704.md",
@@ -225,7 +226,6 @@
     "Week4.md",
     "templates/__template weekly report__.md",
     "Week{{ moment().diff(moment(\"2025-07-01\").startOf('isoWeek'), 'weeks') + 1 }}.md",
-    "templates/__template daily report__.md",
     "paper/(Grace2)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
     "paper/(Grace1)Refinements_In_Zeek_Intrusion_Detection_System.pdf",
     "paper/(第二篇論文)A_Performance_Evaluation_of_Zeek-Based_Intrusion_Detection_in_Agricultural_IoT_Security.pdf",
