@@ -55,3 +55,9 @@ startxfce4
 vncserver -fg
 ```
 有什麼設定去看 man vncserver，裡面寫得蠻詳細的。
+
+client 端使用 mac 的 safari 可以直接連線
+```web
+vnc://211.73.81.176:5901
+```
+在 safari 上打上 vnc://<ip address>:<port> 即可。
